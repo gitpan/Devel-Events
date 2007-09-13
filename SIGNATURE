@@ -1,0 +1,50 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.55.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 e23ab6839eea5cb04cdcf5146ebabb603b03dc86 MANIFEST
+SHA1 ddb918d4e02cc06f4b9fe77adeca65403f8fdd56 MANIFEST.SKIP
+SHA1 9135e05971c60a7f65e0d3ccd51e058a2a7802dc META.yml
+SHA1 7954452fdf2302b8660e3ad0344799f4ea6e894a Makefile.PL
+SHA1 4ddd58d3d3c1e9cd4ff3a985aee84af8cc2e1ff1 TODO
+SHA1 84dee5cad8f73e9e79b2cf2938811ce58fbfac73 lib/Devel/Events.pm
+SHA1 dcb2d7d209af6c48b450d5e960fa6dfacd83c660 lib/Devel/Events/Filter.pm
+SHA1 c2ed4c8e1d3018a0b40358741a3fd80b475b6c05 lib/Devel/Events/Filter/RemoveFields.pm
+SHA1 fd3d657b04a2c24ac48b311c9464ee7cca3e82c1 lib/Devel/Events/Filter/Stamp.pm
+SHA1 ffbb7620aec8bc72f9ae2b666c60b0f0e25d47a3 lib/Devel/Events/Filter/Stringify.pm
+SHA1 debaab49ea19b17abb73580e4b1c955beb258a2d lib/Devel/Events/Filter/Warn.pm
+SHA1 bae3b241b02e19b1b1f9ce15284630fb429b5477 lib/Devel/Events/Generator.pm
+SHA1 f9d1f4f55484d8d555a4d8a2c4610d90c6ed9ae3 lib/Devel/Events/Generator/LineTrace.pm
+SHA1 6be1e3ea1131b76d27ba2de7be45a896d2059291 lib/Devel/Events/Generator/SubTrace.pm
+SHA1 da29a65992d8c70e739f7442f7ac66a00b990302 lib/Devel/Events/Handler.pm
+SHA1 9358ff41d846f94bb105ead0e851de5c10af0e69 lib/Devel/Events/Handler/Callback.pm
+SHA1 5766ccc67169dea644c8e543aef7522552dd259a lib/Devel/Events/Handler/Log/Memory.pm
+SHA1 419e20add69c3aa1b58348252f2318361f01d4a2 lib/Devel/Events/Handler/Multiplex.pm
+SHA1 60d8d57de09f97cb616f6915e7959b4ed38f038d t/001_use.t
+SHA1 9062060f9ebe4d5295cec9f523cb6b4f76828325 t/002_handler_callback.t
+SHA1 dcb96ae10bb52146e9aadd786b773454ec5dac70 t/003_handler_multiplex.t
+SHA1 8823fb06a5e921e178b1f40a1bb602163ea777ef t/004_handler_log_memory.t
+SHA1 c8e8f283c1c28f32529ba3d378c6ae597c01d930 t/011_generator_line_trace.t
+SHA1 680a2ebcc64ff4beea45a30644f990b3476ceaa3 t/012_generator_sub_trace.t
+SHA1 8b7260342a1f51490d1c81c6a43ec9b8523a8585 t/021_filter_stringify.t
+SHA1 77ad7a3b0be483c172c47675610c20ae1e6a1024 t/022_filter_stamp.t
+SHA1 1646984e0b3a6a278725df85e0b225131f1fbdfe t/023_filter_remove.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.7 (Darwin)
+
+iD8DBQFG6IHWVCwRwOvSdBgRAou0AKCM6VgZ4d0o/wVEWMtqT9wOi6qNlACfZjqv
+ZbqcVjLukZNX0xXuA9PWe2k=
+=Plfi
+-----END PGP SIGNATURE-----
