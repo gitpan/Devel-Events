@@ -16,10 +16,10 @@ Hash: SHA1
 
 SHA1 e23ab6839eea5cb04cdcf5146ebabb603b03dc86 MANIFEST
 SHA1 ddb918d4e02cc06f4b9fe77adeca65403f8fdd56 MANIFEST.SKIP
-SHA1 9135e05971c60a7f65e0d3ccd51e058a2a7802dc META.yml
-SHA1 7954452fdf2302b8660e3ad0344799f4ea6e894a Makefile.PL
+SHA1 0631d6fe172f61bee061025ca11d02afef8c90f2 META.yml
+SHA1 f50c07a27b27651b95052fd62e705b6f76ea7024 Makefile.PL
 SHA1 4ddd58d3d3c1e9cd4ff3a985aee84af8cc2e1ff1 TODO
-SHA1 84dee5cad8f73e9e79b2cf2938811ce58fbfac73 lib/Devel/Events.pm
+SHA1 fd30b5846ae2e92fd3bf54fba962218c3c4c1fb2 lib/Devel/Events.pm
 SHA1 dcb2d7d209af6c48b450d5e960fa6dfacd83c660 lib/Devel/Events/Filter.pm
 SHA1 c2ed4c8e1d3018a0b40358741a3fd80b475b6c05 lib/Devel/Events/Filter/RemoveFields.pm
 SHA1 fd3d657b04a2c24ac48b311c9464ee7cca3e82c1 lib/Devel/Events/Filter/Stamp.pm
@@ -44,7 +44,7 @@ SHA1 1646984e0b3a6a278725df85e0b225131f1fbdfe t/023_filter_remove.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.7 (Darwin)
 
-iD8DBQFG6IHWVCwRwOvSdBgRAou0AKCM6VgZ4d0o/wVEWMtqT9wOi6qNlACfZjqv
-ZbqcVjLukZNX0xXuA9PWe2k=
-=Plfi
+iD8DBQFG6qvaVCwRwOvSdBgRAsrQAJ9ZLfvDS3+Z1Aiqie5zoefE1p/ztgCdEwma
+ld6imwkjR/MCWAKUN3qtPNs=
+=Ja4d
 -----END PGP SIGNATURE-----
