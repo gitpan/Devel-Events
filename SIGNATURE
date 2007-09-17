@@ -14,37 +14,44 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 e23ab6839eea5cb04cdcf5146ebabb603b03dc86 MANIFEST
+SHA1 9f6bac8ce60164d9f0b1f2e9f58b7fde7c18da78 Changes
+SHA1 ccb3398cb3e56a75e687988c1cab1a4e47906e78 MANIFEST
 SHA1 ddb918d4e02cc06f4b9fe77adeca65403f8fdd56 MANIFEST.SKIP
-SHA1 0631d6fe172f61bee061025ca11d02afef8c90f2 META.yml
-SHA1 f50c07a27b27651b95052fd62e705b6f76ea7024 Makefile.PL
+SHA1 8d3008878498427667a3011663cbce188e541026 META.yml
+SHA1 c1c66c6541e546d418af77430a0f584e2ed697d2 Makefile.PL
 SHA1 4ddd58d3d3c1e9cd4ff3a985aee84af8cc2e1ff1 TODO
-SHA1 fd30b5846ae2e92fd3bf54fba962218c3c4c1fb2 lib/Devel/Events.pm
-SHA1 dcb2d7d209af6c48b450d5e960fa6dfacd83c660 lib/Devel/Events/Filter.pm
+SHA1 6620e72bf2707953173918a1d59eb6d073d80d8a lib/Devel/Events.pm
+SHA1 cb5a819fd2db7886569909bf86cd7b082f615c27 lib/Devel/Events/Filter.pm
+SHA1 6dd4e1700e7dea597acd3ec5d1c32e1ae150844a lib/Devel/Events/Filter/Callback.pm
+SHA1 9d4041dcba1761f3b07b4e0d0d02afb385e16469 lib/Devel/Events/Filter/HandlerOptional.pm
 SHA1 c2ed4c8e1d3018a0b40358741a3fd80b475b6c05 lib/Devel/Events/Filter/RemoveFields.pm
 SHA1 fd3d657b04a2c24ac48b311c9464ee7cca3e82c1 lib/Devel/Events/Filter/Stamp.pm
 SHA1 ffbb7620aec8bc72f9ae2b666c60b0f0e25d47a3 lib/Devel/Events/Filter/Stringify.pm
-SHA1 debaab49ea19b17abb73580e4b1c955beb258a2d lib/Devel/Events/Filter/Warn.pm
-SHA1 bae3b241b02e19b1b1f9ce15284630fb429b5477 lib/Devel/Events/Generator.pm
-SHA1 f9d1f4f55484d8d555a4d8a2c4610d90c6ed9ae3 lib/Devel/Events/Generator/LineTrace.pm
-SHA1 6be1e3ea1131b76d27ba2de7be45a896d2059291 lib/Devel/Events/Generator/SubTrace.pm
+SHA1 7356217cc78df0c49374f16f91fb323c93b28f58 lib/Devel/Events/Filter/Warn.pm
+SHA1 f3d0d8bd3589719bdcb930bf5ab1e67ce5a9ae3b lib/Devel/Events/Generator.pm
+SHA1 2ecdee0f727c9961de14a9bdaa082ce51cde7248 lib/Devel/Events/Generator/LineTrace.pm
+SHA1 6986b5541d9ef3b0e611a41ae712c0116c77a1f7 lib/Devel/Events/Generator/SubTrace.pm
 SHA1 da29a65992d8c70e739f7442f7ac66a00b990302 lib/Devel/Events/Handler.pm
 SHA1 9358ff41d846f94bb105ead0e851de5c10af0e69 lib/Devel/Events/Handler/Callback.pm
-SHA1 5766ccc67169dea644c8e543aef7522552dd259a lib/Devel/Events/Handler/Log/Memory.pm
+SHA1 82b13991b2bdfa282f685c3aefbbfdeec2e1cf86 lib/Devel/Events/Handler/Log/Memory.pm
 SHA1 419e20add69c3aa1b58348252f2318361f01d4a2 lib/Devel/Events/Handler/Multiplex.pm
+SHA1 51cd815afbbc40aff897a7d5febeb16707326352 lib/Devel/Events/Match.pm
 SHA1 60d8d57de09f97cb616f6915e7959b4ed38f038d t/001_use.t
+SHA1 5defcc24ffcbe068217c8862b8c2b5c2cd29c802 t/002_filter_callback.t
 SHA1 9062060f9ebe4d5295cec9f523cb6b4f76828325 t/002_handler_callback.t
 SHA1 dcb96ae10bb52146e9aadd786b773454ec5dac70 t/003_handler_multiplex.t
+SHA1 d7df2fdbc22b18210e78a79d97fe02de39c00836 t/003_match.t
 SHA1 8823fb06a5e921e178b1f40a1bb602163ea777ef t/004_handler_log_memory.t
-SHA1 c8e8f283c1c28f32529ba3d378c6ae597c01d930 t/011_generator_line_trace.t
-SHA1 680a2ebcc64ff4beea45a30644f990b3476ceaa3 t/012_generator_sub_trace.t
+SHA1 e43b9fd429ebde82bfa48924285feff849946886 t/005_filter_warn.t
+SHA1 ec14cb12c3203f433275def6481644ad74d88451 t/011_generator_line_trace.t
+SHA1 d5535db68d4470e25997221efde84662875689f1 t/012_generator_sub_trace.t
 SHA1 8b7260342a1f51490d1c81c6a43ec9b8523a8585 t/021_filter_stringify.t
 SHA1 77ad7a3b0be483c172c47675610c20ae1e6a1024 t/022_filter_stamp.t
-SHA1 1646984e0b3a6a278725df85e0b225131f1fbdfe t/023_filter_remove.t
+SHA1 4fe6219106dff19fd13db8858c493d7f0d1ee7ae t/023_filter_remove.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.7 (Darwin)
 
-iD8DBQFG6qvaVCwRwOvSdBgRAsrQAJ9ZLfvDS3+Z1Aiqie5zoefE1p/ztgCdEwma
-ld6imwkjR/MCWAKUN3qtPNs=
-=Ja4d
+iD8DBQFG7dY1VCwRwOvSdBgRAlE7AKCCz43hkh8muL3lzqPVEKKK3cqa6gCfe7TU
+oEy1YsPwtlslgsQTV0n91w4=
+=pSZ6
 -----END PGP SIGNATURE-----
