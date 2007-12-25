@@ -16,6 +16,6 @@ $f->new_event( foo => bar => 42 );
 
 is_deeply(
 	\@warnings,
-	[ [ "foo bar 42\n" ] ],
+	[ [ "foo: bar => 42\n" ] ],
 );
 
