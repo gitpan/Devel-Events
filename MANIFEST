@@ -1,7 +1,4 @@
 Changes
-Devel-Events-0.04/Changes
-Devel-Events-0.04/lib/Devel/Events/Filter/Stringify.pm
-Devel-Events-0.04/MANIFEST
 lib/Devel/Events.pm
 lib/Devel/Events/Filter.pm
 lib/Devel/Events/Filter/Callback.pm
@@ -37,5 +34,6 @@ t/021_filter_stringify.t
 t/022_filter_stamp.t
 t/023_filter_remove.t
 t/025_filter_drop.t
+TODO
 META.yml                                 Module meta-data (added by MakeMaker)
 SIGNATURE                                Public-key signature (added by MakeMaker)

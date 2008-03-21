@@ -14,26 +14,24 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 634355a3da6506858018f9c6efb78207a9968171 Changes
-SHA1 634355a3da6506858018f9c6efb78207a9968171 Devel-Events-0.04/Changes
-SHA1 e43f640f1c8aa2c65eb49e789c8f7d9e511fe1bb Devel-Events-0.04/MANIFEST
-SHA1 ffbb7620aec8bc72f9ae2b666c60b0f0e25d47a3 Devel-Events-0.04/lib/Devel/Events/Filter/Stringify.pm
-SHA1 7b67a14a43776ed4fd93ff932bc8033fa0daa496 MANIFEST
+SHA1 7bacbe9917fb62e97c134b62365816d89ad3dddb Changes
+SHA1 12feddb557ca3dd95c2f762aa32108c13d0669b8 MANIFEST
 SHA1 ddb918d4e02cc06f4b9fe77adeca65403f8fdd56 MANIFEST.SKIP
-SHA1 87d5f2afd87a4539f7c4b546ed37b3cfaf25dfe6 META.yml
-SHA1 c1c66c6541e546d418af77430a0f584e2ed697d2 Makefile.PL
-SHA1 8e6db649461835bd5f21565fdd77805d187eb0a9 lib/Devel/Events.pm
+SHA1 3e544c7143911a9d027722e632616067dffb81a7 META.yml
+SHA1 cd858adf037b1487eb9f21d9da447ccd7c9ba356 Makefile.PL
+SHA1 4c20e92dded4dc5abf504bccc0af00a7d29deac2 TODO
+SHA1 7592657bda91f616154e14e7e11689df1c9cf3f8 lib/Devel/Events.pm
 SHA1 cb5a819fd2db7886569909bf86cd7b082f615c27 lib/Devel/Events/Filter.pm
 SHA1 6dd4e1700e7dea597acd3ec5d1c32e1ae150844a lib/Devel/Events/Filter/Callback.pm
 SHA1 0ce66f79c19a27f00582c978f9594b933dce0d93 lib/Devel/Events/Filter/Drop.pm
-SHA1 9d4041dcba1761f3b07b4e0d0d02afb385e16469 lib/Devel/Events/Filter/HandlerOptional.pm
+SHA1 5ed0aeb0254407bc2aaa38f0bd77af4dcef31d3a lib/Devel/Events/Filter/HandlerOptional.pm
 SHA1 c2ed4c8e1d3018a0b40358741a3fd80b475b6c05 lib/Devel/Events/Filter/RemoveFields.pm
 SHA1 fd3d657b04a2c24ac48b311c9464ee7cca3e82c1 lib/Devel/Events/Filter/Stamp.pm
 SHA1 ffbb7620aec8bc72f9ae2b666c60b0f0e25d47a3 lib/Devel/Events/Filter/Stringify.pm
 SHA1 4023548287b8e94f13eaa1de63a5cacbd875739f lib/Devel/Events/Filter/Warn.pm
 SHA1 f3d0d8bd3589719bdcb930bf5ab1e67ce5a9ae3b lib/Devel/Events/Generator.pm
-SHA1 2ecdee0f727c9961de14a9bdaa082ce51cde7248 lib/Devel/Events/Generator/LineTrace.pm
-SHA1 2bc2deff69f8b8b903dff0be4d734ee98eee02ea lib/Devel/Events/Generator/Require.pm
+SHA1 6821467a32656d29c95b657af8cc2857fa0cb0b0 lib/Devel/Events/Generator/LineTrace.pm
+SHA1 f5a12385ddd47b937c1a753b525a39a898317ebf lib/Devel/Events/Generator/Require.pm
 SHA1 6986b5541d9ef3b0e611a41ae712c0116c77a1f7 lib/Devel/Events/Generator/SubTrace.pm
 SHA1 da29a65992d8c70e739f7442f7ac66a00b990302 lib/Devel/Events/Handler.pm
 SHA1 9358ff41d846f94bb105ead0e851de5c10af0e69 lib/Devel/Events/Handler/Callback.pm
@@ -57,7 +55,7 @@ SHA1 46cf831554e1216bde6eefeb40d7f73d66dca1d4 t/025_filter_drop.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.7 (Darwin)
 
-iD8DBQFHcFwHVCwRwOvSdBgRAtzAAJ4hgQ5fPkh9wG9lY/OrctEgswUpbQCeJ+Cj
-D5j5gK54pkHbExN4wSgfJEk=
-=8r71
+iD8DBQFH5DcYVCwRwOvSdBgRAudBAKCz3n3SMf0vF9lz7af2U7HMRY7VhgCdGXUP
+D3XVA+3yldYgXenLiumd7a4=
+=W19k
 -----END PGP SIGNATURE-----
