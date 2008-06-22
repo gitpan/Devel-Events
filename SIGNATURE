@@ -17,10 +17,10 @@ Hash: SHA1
 SHA1 7bacbe9917fb62e97c134b62365816d89ad3dddb Changes
 SHA1 12feddb557ca3dd95c2f762aa32108c13d0669b8 MANIFEST
 SHA1 ddb918d4e02cc06f4b9fe77adeca65403f8fdd56 MANIFEST.SKIP
-SHA1 3e544c7143911a9d027722e632616067dffb81a7 META.yml
+SHA1 2a8a502f93d22edb414c1ffdb27c64662ac09d4c META.yml
 SHA1 cd858adf037b1487eb9f21d9da447ccd7c9ba356 Makefile.PL
 SHA1 4c20e92dded4dc5abf504bccc0af00a7d29deac2 TODO
-SHA1 7592657bda91f616154e14e7e11689df1c9cf3f8 lib/Devel/Events.pm
+SHA1 494138a1f599596b04e39a90388021a231425162 lib/Devel/Events.pm
 SHA1 cb5a819fd2db7886569909bf86cd7b082f615c27 lib/Devel/Events/Filter.pm
 SHA1 6dd4e1700e7dea597acd3ec5d1c32e1ae150844a lib/Devel/Events/Filter/Callback.pm
 SHA1 0ce66f79c19a27f00582c978f9594b933dce0d93 lib/Devel/Events/Filter/Drop.pm
@@ -47,7 +47,7 @@ SHA1 8823fb06a5e921e178b1f40a1bb602163ea777ef t/004_handler_log_memory.t
 SHA1 dea9f120585f8f50f443e7a4dc313e16ce109b54 t/005_filter_warn.t
 SHA1 ec14cb12c3203f433275def6481644ad74d88451 t/011_generator_line_trace.t
 SHA1 d5535db68d4470e25997221efde84662875689f1 t/012_generator_sub_trace.t
-SHA1 d28aa2bf3fa2bb364f5176e9a7f75d5b3bec77e5 t/013_generator_require.t
+SHA1 0868efa45a05557bc3f1cec9a4be7fc7eddaa841 t/013_generator_require.t
 SHA1 8b7260342a1f51490d1c81c6a43ec9b8523a8585 t/021_filter_stringify.t
 SHA1 77ad7a3b0be483c172c47675610c20ae1e6a1024 t/022_filter_stamp.t
 SHA1 4fe6219106dff19fd13db8858c493d7f0d1ee7ae t/023_filter_remove.t
@@ -55,7 +55,7 @@ SHA1 46cf831554e1216bde6eefeb40d7f73d66dca1d4 t/025_filter_drop.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.7 (Darwin)
 
-iD8DBQFH5DcYVCwRwOvSdBgRAudBAKCz3n3SMf0vF9lz7af2U7HMRY7VhgCdGXUP
-D3XVA+3yldYgXenLiumd7a4=
-=W19k
+iD8DBQFIXcx5VCwRwOvSdBgRAoqXAJ94iVKfsJmwIk82OkksqJH2RynKEACfejnS
+NKl4crqhSE/X1GYxsXXfvQU=
+=EDEL
 -----END PGP SIGNATURE-----
