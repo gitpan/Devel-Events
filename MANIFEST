@@ -34,6 +34,5 @@ t/021_filter_stringify.t
 t/022_filter_stamp.t
 t/023_filter_remove.t
 t/025_filter_drop.t
-TODO
 META.yml                                 Module meta-data (added by MakeMaker)
 SIGNATURE                                Public-key signature (added by MakeMaker)

@@ -14,13 +14,12 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 7bacbe9917fb62e97c134b62365816d89ad3dddb Changes
-SHA1 12feddb557ca3dd95c2f762aa32108c13d0669b8 MANIFEST
-SHA1 ddb918d4e02cc06f4b9fe77adeca65403f8fdd56 MANIFEST.SKIP
-SHA1 2a8a502f93d22edb414c1ffdb27c64662ac09d4c META.yml
-SHA1 cd858adf037b1487eb9f21d9da447ccd7c9ba356 Makefile.PL
-SHA1 4c20e92dded4dc5abf504bccc0af00a7d29deac2 TODO
-SHA1 494138a1f599596b04e39a90388021a231425162 lib/Devel/Events.pm
+SHA1 1ad69ae20bfcafed47e35604dab69b36b17c2d43 Changes
+SHA1 718945a596947b2e7264b62bc70b0f93c98feed9 MANIFEST
+SHA1 606bd6424682249397d63caf905f651178a4d6cc MANIFEST.SKIP
+SHA1 9b4e766b75a6ddc2981040ffe73fa6f229b0ea9c META.yml
+SHA1 6a2ae666eebade995fb81628302efa13a1f4f608 Makefile.PL
+SHA1 50227191438b15a4dbe10ecf2c6cf9638af7b600 lib/Devel/Events.pm
 SHA1 cb5a819fd2db7886569909bf86cd7b082f615c27 lib/Devel/Events/Filter.pm
 SHA1 6dd4e1700e7dea597acd3ec5d1c32e1ae150844a lib/Devel/Events/Filter/Callback.pm
 SHA1 0ce66f79c19a27f00582c978f9594b933dce0d93 lib/Devel/Events/Filter/Drop.pm
@@ -31,8 +30,8 @@ SHA1 ffbb7620aec8bc72f9ae2b666c60b0f0e25d47a3 lib/Devel/Events/Filter/Stringify.
 SHA1 4023548287b8e94f13eaa1de63a5cacbd875739f lib/Devel/Events/Filter/Warn.pm
 SHA1 f3d0d8bd3589719bdcb930bf5ab1e67ce5a9ae3b lib/Devel/Events/Generator.pm
 SHA1 6821467a32656d29c95b657af8cc2857fa0cb0b0 lib/Devel/Events/Generator/LineTrace.pm
-SHA1 f5a12385ddd47b937c1a753b525a39a898317ebf lib/Devel/Events/Generator/Require.pm
-SHA1 6986b5541d9ef3b0e611a41ae712c0116c77a1f7 lib/Devel/Events/Generator/SubTrace.pm
+SHA1 68d0f21449ecc670178a59dde9a66e3153e89ea9 lib/Devel/Events/Generator/Require.pm
+SHA1 0de4ad5577df898f1dbd990dcf1638ffd09b741b lib/Devel/Events/Generator/SubTrace.pm
 SHA1 da29a65992d8c70e739f7442f7ac66a00b990302 lib/Devel/Events/Handler.pm
 SHA1 9358ff41d846f94bb105ead0e851de5c10af0e69 lib/Devel/Events/Handler/Callback.pm
 SHA1 5cc2ef0e10485572773523dec2027c6ff168313c lib/Devel/Events/Handler/Log/Memory.pm
@@ -47,15 +46,15 @@ SHA1 8823fb06a5e921e178b1f40a1bb602163ea777ef t/004_handler_log_memory.t
 SHA1 dea9f120585f8f50f443e7a4dc313e16ce109b54 t/005_filter_warn.t
 SHA1 ec14cb12c3203f433275def6481644ad74d88451 t/011_generator_line_trace.t
 SHA1 d5535db68d4470e25997221efde84662875689f1 t/012_generator_sub_trace.t
-SHA1 0868efa45a05557bc3f1cec9a4be7fc7eddaa841 t/013_generator_require.t
+SHA1 750f7301d51f13d8a5bff17c8508fcf3a1c5adbe t/013_generator_require.t
 SHA1 8b7260342a1f51490d1c81c6a43ec9b8523a8585 t/021_filter_stringify.t
 SHA1 77ad7a3b0be483c172c47675610c20ae1e6a1024 t/022_filter_stamp.t
 SHA1 4fe6219106dff19fd13db8858c493d7f0d1ee7ae t/023_filter_remove.t
 SHA1 46cf831554e1216bde6eefeb40d7f73d66dca1d4 t/025_filter_drop.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.7 (Darwin)
+Version: GnuPG/MacGPG2 v2.0.12 (Darwin)
 
-iD8DBQFIXcx5VCwRwOvSdBgRAoqXAJ94iVKfsJmwIk82OkksqJH2RynKEACfejnS
-NKl4crqhSE/X1GYxsXXfvQU=
-=EDEL
+iEYEARECAAYFAkq3WesACgkQVCwRwOvSdBjcowCfRd/qnHSG+d0R3OiVOnLyA+j+
+Q8AAnAgikSCnc4Ms6Z2WDZuy4E8+x72v
+=60Qq
 -----END PGP SIGNATURE-----
