@@ -14,12 +14,12 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 1ad69ae20bfcafed47e35604dab69b36b17c2d43 Changes
+SHA1 f888299da0515b090a4323709cd468376447152f Changes
 SHA1 718945a596947b2e7264b62bc70b0f93c98feed9 MANIFEST
 SHA1 606bd6424682249397d63caf905f651178a4d6cc MANIFEST.SKIP
-SHA1 9b4e766b75a6ddc2981040ffe73fa6f229b0ea9c META.yml
-SHA1 6a2ae666eebade995fb81628302efa13a1f4f608 Makefile.PL
-SHA1 50227191438b15a4dbe10ecf2c6cf9638af7b600 lib/Devel/Events.pm
+SHA1 3b56f54f3ad12dd72be0399daa5d248977e19b13 META.yml
+SHA1 952a38b0e2f6dedc732e8ac13bfefda15ba2e67d Makefile.PL
+SHA1 87c49038feead2aaad8d1e2387801681f45af8a5 lib/Devel/Events.pm
 SHA1 cb5a819fd2db7886569909bf86cd7b082f615c27 lib/Devel/Events/Filter.pm
 SHA1 6dd4e1700e7dea597acd3ec5d1c32e1ae150844a lib/Devel/Events/Filter/Callback.pm
 SHA1 0ce66f79c19a27f00582c978f9594b933dce0d93 lib/Devel/Events/Filter/Drop.pm
@@ -54,7 +54,7 @@ SHA1 46cf831554e1216bde6eefeb40d7f73d66dca1d4 t/025_filter_drop.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG/MacGPG2 v2.0.12 (Darwin)
 
-iEYEARECAAYFAkq3WesACgkQVCwRwOvSdBjcowCfRd/qnHSG+d0R3OiVOnLyA+j+
-Q8AAnAgikSCnc4Ms6Z2WDZuy4E8+x72v
-=60Qq
+iEYEARECAAYFAkrODW0ACgkQVCwRwOvSdBhfcQCfYjMOgWFfdeNX927EY/wbTzMa
+zU8AoKObDxT4vupybbcL3FHjspORixOW
+=dTIf
 -----END PGP SIGNATURE-----
